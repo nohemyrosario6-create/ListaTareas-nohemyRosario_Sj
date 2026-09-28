@@ -13,7 +13,7 @@ export const TodoHeader = () => {
           />
         </svg>
       </div>
-      <h1>Mi Lista de Tareas</h1>
+      <h1>Mi lista de tareas</h1>
     </div>
   );
 };
